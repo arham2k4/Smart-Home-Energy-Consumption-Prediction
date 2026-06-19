@@ -108,7 +108,5 @@ Smart-Home-Energy-Consumption/
 ## 👨‍💻 Authors
 
 * Muhammad Arham
-* Ammar Ahmed
-* Hafiz Asad
 
 ⭐ If you found this project useful, consider giving it a star!
