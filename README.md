@@ -1,4 +1,4 @@
-# 🏠 Smart Home Energy ConsumptionPrediction
+# 🏠 Smart Home Energy Consumption Prediction
 
 A Data Science and Machine Learning project that analyzes smart home energy usage patterns and predicts household energy consumption using regression models. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model comparison to identify the most effective prediction model.
 
